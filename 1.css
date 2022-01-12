@@ -1,0 +1,122 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #12292f;
+    width: 1400px;
+}
+.body-content{
+    color: #536469;
+    margin-left:  131px;
+    margin-top: 47px;
+    margin-right: 244px;
+}
+.cot{
+    display: flex;
+}
+.cot1 .gachchan{
+    border-bottom: 2px solid #536469;
+    width: 23px;
+    padding-top: 16px;
+}
+.cot1 .content{
+    padding-top: 26px;
+    width: 208px;
+    height: 81px;
+    font-family: 'Segoe UI';
+}
+.cot1 .img{
+    padding-top: 61px;
+}
+.cot1 .content p{
+    font-size: 14px;
+}
+.cot2{
+    padding-left: 80px;
+}
+
+h3
+{
+    font-weight: 400;
+    font-family: 'Segoe UI';
+}
+.cot2 .gachchan{
+    width: 23px;
+    padding-top: 16px;
+    border-bottom: 2px solid #536469;
+}
+.cot2 .content {
+    padding-top: 26px;
+    width: 135px;
+    height: 86px;
+}
+.cot2 .content ul li{
+    list-style: none;
+    display: flex;
+    padding-bottom: 15px;
+}
+.cot2 .content ul li .icon{
+    font-size: 20px;
+}
+.cot2 .content ul li .name {
+  text-align: left;
+  padding-left: 13px;
+  font-size: 14px;
+}
+.cot2 .title2{
+    font-family: 'Segoe UI';
+    padding-top: 65px;
+}
+.cot2 .gachduoi{
+    width: 23px;
+    padding-top: 15px;
+    border-bottom: 2px solid #536469;
+}
+.cot2 .img{
+    padding-top: 22px;
+}
+.cot3 {
+    padding-left: 129px;
+}
+.cot3 .gachchan {
+    width: 23px;
+    padding-top: 16px;
+    border-bottom: 2px solid #536469;
+}
+.cot3 .content ul{
+    padding-top: 27px;
+    list-style: none;
+}
+.cot4{
+    padding-left: 129px;
+}
+.cot4 .gachchan{
+    width: 23px;
+    padding-top: 16px;
+    border-bottom: 2px solid #536469;
+}
+.cot4 .content{
+    padding-top: 24px;
+    font-family: 'Segoe UI';
+    font-size: 14px;
+   
+}
+.cot4 .content ul{
+    list-style: none;
+}
+.cot4 .content .phu{
+    color: #3c4b50;
+    font-size: 14px;
+    padding-top: 16px;
+}
+.gachduoi{
+    padding-top: 57px;
+    border-bottom: 1px solid #20363b;
+}
+.thontin p{
+    color: #6b7a7e;
+    text-align: center;
+    padding-top: 37px;
+}
+
